@@ -1,0 +1,3 @@
+ConnectionString: Server=127.0.1.1;Database=auth;User Id=sa;Password=Qwert1234_;
+LogLevel: 1
+ProviderName: PostgreSQL.9.5

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{BE2AFE44-4D10-487A-A629-28FF1EAACE00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{CC20B2D6-12E6-4DAB-BEFC-E2087A7B235E}"
+	ProjectSection(SolutionItems) = preProject
+		..\.dockerignore = ..\.dockerignore
+		..\.gitignore = ..\.gitignore
+		..\dingo.yml = ..\dingo.yml
+		..\Dockerfile = ..\Dockerfile
+		..\local.yml = ..\local.yml
+		..\README.md = ..\README.md
+		..\makefile = ..\makefile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2AFE44-4D10-487A-A629-28FF1EAACE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2AFE44-4D10-487A-A629-28FF1EAACE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2AFE44-4D10-487A-A629-28FF1EAACE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2AFE44-4D10-487A-A629-28FF1EAACE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
